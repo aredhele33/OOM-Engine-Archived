@@ -2,7 +2,7 @@
 #### This is an archived project. It only contains a binaries since I don't have time to maintain the code of this project.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/OOM-Engine/main/Press/Floppy_Bug_Gif_1.gif" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/Floppy_Bug_Gif_1.gif" />
 </p>
 
 ## Abstract
@@ -23,7 +23,7 @@ The engine, written in C++17, is as light as one 440 KB executable file, with ev
 The game won the design and the quality prices and the second place in gameplay :
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/OOM-Engine/main/Press/Floppy_Jam_1.png" width="729" height="181" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/Floppy_Jam_1.png" width="729" height="181" />
 </p>
 
 Third party libraries :
@@ -43,7 +43,7 @@ The project was compiled in 32 bits using Microsoft Visual Studio 2017 and CMake
 **Game scene example preview**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/OOM-Engine/main/Press/OOM-Engine-Overview.gif" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/OOM-Engine-Overview.gif" />
 </p>
 
 ### Features
@@ -140,7 +140,7 @@ int main(int argc, char** argv)
 ### Physics demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/OOM-Engine/main/Press/OOM-Engine-Physics.gif" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/OOM-Engine-Physics.gif" />
 </p>
 
 ```cpp
@@ -190,7 +190,7 @@ void LoadDemoScenePhysics()
 ### Audio demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/OOM-Engine/main/Press/OOM-Engine-Audio.gif" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/OOM-Engine-Audio.gif" />
 </p>
 
 ```cpp
