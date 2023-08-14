@@ -2,7 +2,7 @@
 #### This is an archived project. It only contains a binaries since I don't have time to maintain the code of this project.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine/main/Press/Floppy_Bug_Gif_1.gif" />
+  <img src="https://raw.githubusercontent.com/aredhele33/OOM-Engine-Archived/main/Press/Floppy_Bug_Gif_1.gif" />
 </p>
 
 ## Abstract
